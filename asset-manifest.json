@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-to-do/static/css/main.45da2004.css",
+    "main.js": "/React-to-do/static/js/main.3573a368.js",
+    "static/js/787.63e47474.chunk.js": "/React-to-do/static/js/787.63e47474.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/React-to-do/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/React-to-do/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/React-to-do/index.html",
+    "main.45da2004.css.map": "/React-to-do/static/css/main.45da2004.css.map",
+    "main.3573a368.js.map": "/React-to-do/static/js/main.3573a368.js.map",
+    "787.63e47474.chunk.js.map": "/React-to-do/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45da2004.css",
+    "static/js/main.3573a368.js"
+  ]
+}
